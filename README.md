@@ -29,6 +29,10 @@ Dataset = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Project
 ### 19) What is the relationship between TV show duration and release year?
 
 
+## Objective of the project 
+ ### 1) Perform exploratory data analysis (EDA) on Netflix content
+ ### 2) Understand patterns in content type, ratings, durations, release trends, and more
+ ### 3) Visualize findings using Python and data visualization libraries
 
 
 

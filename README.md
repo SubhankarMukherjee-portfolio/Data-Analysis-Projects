@@ -45,7 +45,8 @@ Dataset = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Project
 
 
 
-
+## Python file (Jupyter Notebook)
+Python File  = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Projects/blob/main/netflix.ipynb">
 
 
 

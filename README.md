@@ -34,6 +34,14 @@ Dataset = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Project
  ### 2) Understand patterns in content type, ratings, durations, release trends, and more
  ### 3) Visualize findings using Python and data visualization libraries
 
+## Libraries Used
+### The following Python libraries were used during the data cleaning, exploration, visualization, and analysis phases:
+### 1) NumPy – for numerical operations
+### 2) Pandas – for data manipulation and analysis
+### 3) Matplotlib – for data visualization (basic plotting)
+### 4) Seaborn – for advanced and statistical visualizations
+### 5) Scikit-learn (sklearn) – for basic machine learning operations and metrics
+### 6) WordCloud – to visualize the most frequent words in titles
 
 
 

@@ -4,7 +4,7 @@
 ### Netflix is a popular streaming platform that provides a vast catalog of Movies, TV Shows, and original content across various genres and countries. This project analyzes a dataset containing details of Netflix content added between 2008 and 2021. Notably, while the data reflects additions from 2008 onwards, the oldest content in the catalog dates back to 1925, and the newest content is from 2021. The dataset was cleaned and analyzed using Python in a Jupyter Notebook environment. The primary focus of the analysis was to uncover trends, distributions, and insights related to content type, release and addition patterns, duration, genres, ratings, and more.
 
 ## Dataset used
-Dataset = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Projects/blob/main/netflix1.csv?plain=1">
+Dataset = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Projects/blob/main/netflix1.csv?plain=1"
 
 
  ## Questions solved
@@ -46,7 +46,12 @@ Dataset = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Project
 
 
 ## Python file (Jupyter Notebook)
-Python File  = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Projects/blob/main/netflix.ipynb">
+Python File  = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Projects/blob/main/netflix.ipynb"
+
+## PowerPoint presentation
+
+PPT = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Projects/blob/main/Netflix_Analysis_Presentation.pptx"
+
 
 
 

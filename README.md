@@ -53,6 +53,13 @@ Python File  = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Pr
 PPT = "https://github.com/SubhankarMukherjee-portfolio/Data-Analysis-Projects/blob/main/Netflix_Analysis_Presentation.pptx"
 
 
+## Final Observations & Storyline
+### Netflix’s content library is heavily skewed toward Movies, which make up nearly 70% of all titles, while TV Shows account for the remaining 30%. Among all content, TV-MA emerges as the most common rating, suggesting a preference for mature themes, followed by TV-14 and TV-PG.
+### When analyzing durations, Netflix Movies typically run around 98–100 minutes, though some stretch up to 312 minutes. TV Shows, on the other hand, are mostly short-form, with a median duration of just 1 season, though a few span up to 17 seasons.
+### From a historical perspective, Netflix saw a surge in new content releases between 2016 and 2021, with the USA dominating production in both Movies and TV Shows. India and the UK also lead in Movies, while Pakistan ranks surprisingly high for TV Shows. On a monthly cycle, Movie additions peak in July and April, while TV Shows spike in December and July, reflecting seasonal content strategies.
+### Genre-wise, Dramas, International Films, Documentaries, and Stand-Up Comedy dominate the Movie catalog, while Kids' TV, International TV, Dramas, and Crime Shows lead in the TV domain. Common title themes for Movies include Christmas, Love, and Life, while World, Girl, and Love are frequent in TV titles.
+### Looking at key contributors, Alastair Fothergill leads as the top director for TV Shows, while Rajiv Chilaka tops the Movie director list. Interestingly, NC-17-rated movies have the longest average durations, while TV-17-rated shows run the longest on average.
+### Finally, over time, there’s a clear upward trend in the duration of both Movies (post-2000) and TV Shows (post-2010), reflecting Netflix’s shift toward longer, more in-depth storytelling as viewer demand evolves.
 
 
 
